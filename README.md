@@ -202,7 +202,7 @@ The system achieves **85.48% accuracy** on 47,000+ real support tickets, proving
 
 # 👨‍💻 Author  
 
-Raghav Marwaha  
+Shamaela Anjum 
 Machine Learning Intern  
 Future Interns  
 
